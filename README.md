@@ -1,1 +1,3 @@
-# logo
+# cotowari logo
+
+Logo of Cotowari
