@@ -1,5 +1,5 @@
-# cotowari logo
+# cotowali logo
 
-Logo of Cotowari
+Logo of Cotowali
 
 ![](./cotowari.svg)
