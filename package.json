@@ -1,0 +1,17 @@
+{
+  "name": "@cotowali/design",
+  "version": "0.0.0",
+  "description": "Graphic design resources of cotowali",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cotowali/design.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/cotowali/design/issues"
+  },
+  "homepage": "https://github.com/cotowali/design#readme"
+}
