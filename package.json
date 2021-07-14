@@ -13,5 +13,6 @@
   "bugs": {
     "url": "https://github.com/cotowali/design/issues"
   },
-  "homepage": "https://github.com/cotowali/design#readme"
+  "homepage": "https://github.com/cotowali/design#readme",
+  "type": "module"
 }
