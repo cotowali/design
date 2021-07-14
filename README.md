@@ -1,5 +1,3 @@
-# cotowali logo
+# cotowali/design
 
-Logo of Cotowali
-
-![](./cotowari.svg)
+Graphic design resources of cotowali
