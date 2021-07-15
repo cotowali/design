@@ -16,6 +16,13 @@
   },
   "homepage": "https://github.com/cotowali/design#readme",
   "type": "module",
+  "exports": {
+    ".": {
+      "import": "./index.js",
+      "require": "./index.cjs"
+    },
+    "./assets/*": "./assets/*"
+  },
   "devDependencies": {
     "rollup": "^2.53.1"
   }
