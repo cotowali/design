@@ -32,5 +32,8 @@
   },
   "devDependencies": {
     "rollup": "^2.53.1"
+  },
+  "dependencies": {
+    "chroma-js": "^2.1.2"
   }
 }
