@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/cotowali/design.git"
   },
-  "author": "",
+  "author": "zakuro <z@kuro.red>",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/cotowali/design/issues"
