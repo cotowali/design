@@ -1,4 +1,6 @@
 export default {
-  main: '#cb1b45',
-  mainDark: '#8a1a35',
+  brand: {
+    red: '#cb1b45',
+    darkRed: '#8a1a35',
+  },
 }
