@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/cotowali/design#readme",
   "type": "module",
+  "engines": {
+    "node": ">=14"
+  },
   "exports": {
     ".": {
       "import": "./index.js",
