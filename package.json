@@ -2,7 +2,9 @@
   "name": "@cotowali/design",
   "version": "0.0.0",
   "description": "Graphic design resources of cotowali",
-  "scripts": {},
+  "scripts": {
+    "build": "rollup -c"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/cotowali/design.git"
