@@ -1,6 +1,12 @@
+import chroma from 'chroma-js'
+
+const brand = {
+  red: chroma('#cb1b45'),
+  darkRed: chroma('#8a1a35'),
+}
+
 export default {
-  brand: {
-    red: '#cb1b45',
-    darkRed: '#8a1a35',
-  },
+  brand,
+  dark: chroma.scale([brand.red, 'black'])(0.92),
+  white: chroma.scale([brand.red, 'white'])(0.92),
 }
