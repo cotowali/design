@@ -7,6 +7,6 @@ const brand = {
 
 export default {
   brand,
-  dark: chroma.scale([brand.red, 'black'])(0.92),
+  dark: chroma.scale([brand.red, 'black'])(0.92).set('hsl.s', 0.26),
   white: chroma.scale([brand.red, 'white'])(0.92),
 }
