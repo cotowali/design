@@ -7,6 +7,6 @@ const brand = {
 
 export default {
   brand,
-  dark: color.hsl(brand.red.hue(), 26, 4),
+  dark: color.hsl(brand.red.hue(), 26, 14),
   white: color.hsl(brand.red.hue(), 63, 96),
 }
