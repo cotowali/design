@@ -1,12 +1,12 @@
-import chroma from 'chroma-js'
+import color from 'color'
 
 const brand = {
-  red: chroma('#cb1b45'),
-  darkRed: chroma('#8a1a35'),
+  red: color('#cb1b45'),
+  darkRed: color('#8a1a35'),
 }
 
 export default {
   brand,
-  dark: chroma.scale([brand.red, 'black'])(0.92).set('hsl.s', 0.26),
-  white: chroma.scale([brand.red, 'white'])(0.92),
+  dark: color.hsl(brand.red.hue(), 26, 4),
+  white: color.hsl(brand.red.hue(), 63, 96),
 }
