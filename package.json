@@ -1,6 +1,6 @@
 {
   "name": "@cotowali/design",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Graphic design resources of cotowali",
   "scripts": {
     "build": "rollup -c",
@@ -23,6 +23,11 @@
   "publishConfig": {
     "access": "public"
   },
+  "files": [
+    "index.js",
+    "index.cjs",
+    "assets"
+  ],
   "exports": {
     ".": {
       "import": "./index.js",
