@@ -4,7 +4,7 @@
   "description": "Graphic design resources of cotowali",
   "scripts": {
     "build": "rollup -c",
-    "postinstall": "npm run build"
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
