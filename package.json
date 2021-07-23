@@ -1,6 +1,6 @@
 {
   "name": "@cotowali/design",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Graphic design resources of cotowali",
   "scripts": {
     "build": "rollup -c",
@@ -26,7 +26,8 @@
   "files": [
     "index.js",
     "index.cjs",
-    "assets"
+    "assets/cotowali.svg",
+    "assets/cotowali.png"
   ],
   "exports": {
     ".": {
