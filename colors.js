@@ -1,12 +1,12 @@
 import color from 'color'
 
-const brand = {
+const main = {
   red: color('#cb1b45'),
   darkRed: color('#8a1a35'),
 }
 
 export default {
-  brand,
-  dark: color.hsl(brand.red.hue(), 26, 14),
-  white: color.hsl(brand.red.hue(), 63, 96),
+  ...main,
+  dark: color.hsl(main.red.hue(), 26, 14),
+  white: color.hsl(main.red.hue(), 63, 96),
 }
