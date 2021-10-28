@@ -1,6 +1,6 @@
 {
   "name": "@cotowali/design",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "description": "Graphic design resources of cotowali",
   "scripts": {
     "build": "rollup -c",
